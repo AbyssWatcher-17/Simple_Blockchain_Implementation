@@ -1,0 +1,3 @@
+/home/myavuz/Desktop/BlockChain/BlockChainImplementation_Cpp/build/CMakeFiles/simple-blockchain.dir
+/home/myavuz/Desktop/BlockChain/BlockChainImplementation_Cpp/build/CMakeFiles/edit_cache.dir
+/home/myavuz/Desktop/BlockChain/BlockChainImplementation_Cpp/build/CMakeFiles/rebuild_cache.dir

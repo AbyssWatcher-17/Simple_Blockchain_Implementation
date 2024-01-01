@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/simple-blockchain.dir/src/blockchain/CBlock.cpp.o CMakeFiles/simple-blockchain.dir/src/blockchain/Chain.cpp.o CMakeFiles/simple-blockchain.dir/src/main.cpp.o -o simple-blockchain  -lssl -lcrypto 
